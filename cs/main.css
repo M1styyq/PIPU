@@ -1,0 +1,4 @@
+.logo-bar_contailer{
+    display: flex;
+    justify-content: space-between;
+}
